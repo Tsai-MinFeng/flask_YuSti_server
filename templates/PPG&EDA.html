@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>上傳量測數據</title>
+</head>
+<body>
+    <h2>上傳量測數據</h2>
+    <h3>請輸入以下欄位</h3>
+    <form action = "/upload/PPG&EDA" method="post">
+        patient id <input type="text" name="patientId"/><br/>
+        PPG <input type="text" name="ppg"/><br/>
+        <button>upload</button>
+    </form>
+    <hr/>
+    <h2>刪除量測數據</h2>
+    <h3>請輸入以下欄位</h3>
+    <form action = "/delete/PPG&EDA" method="post">
+        patient id <input type="text" name="patientId"/><br/>
+        <button>delete</button>
+    </form>
+    <hr/>
+    <!-- <form method="post" enctype="multipart/form-data">
+        <label for="file">File</label>
+        <input id="file" name="file" type="file" />
+        <button>Upload</button>
+      </form> -->
+</body>
+</html>
