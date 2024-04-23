@@ -15,7 +15,7 @@
 
 接著會看到 `upload historyData` 和 `upload PPG` 兩個連結，以下分別介紹：
 
-## upload PPG
+## upload PPG(先以這頁功能為主)
 上傳功能
 1. 在patient id欄位輸入使用者編號，e.g.：5
 2. 在PPG欄位輸入一筆陣列資料，e.g.：1, 2, 3, 4, 5, 6, 7, 8, 9, 10
