@@ -19,7 +19,7 @@
 上傳功能
 1. 在patient id欄位輸入使用者編號，e.g.：5
 2. 在PPG欄位輸入一筆陣列資料，e.g.：1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-3. 按下 `upload` 上傳成功
+3. 按下 `upload` 上傳資料
 
 刪除功能
 1. 在patient id欄位輸入欲刪除資料的使用者編號，e.g.：5
@@ -27,4 +27,5 @@
 
 ## upload historyData
 上傳功能
-1. 在 `patient id` 、 `total time` 、 `cycle time` 、 `stimulation time` 分別輸入任意資料
+1. 在 `patient id`、`total time`、`cycle time`、`stimulation time` 欄位分別輸入任意資料
+2. 按下 `upload` 上傳資料
