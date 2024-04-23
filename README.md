@@ -13,4 +13,7 @@
 3. 在終端機執行 `python init.py`。
 4. 開啟執行後產生的連結 `http://127.0.0.1:3000/`。
 
-接著會看到 `upload historyData` 和 `upload PPG`兩個連結
+接著會看到 `upload historyData` 和 `upload PPG` 兩個連結，以下分別介紹：
+
+# upload PPG
+## upload historyData
