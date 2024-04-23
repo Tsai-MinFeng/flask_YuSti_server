@@ -2,7 +2,7 @@
 
 後端的API flowchart！
 
-(API_flow_chart.jpg)
+[API flowchart](API_flow_chart.jpg)
 
 ## 執行專案
 
