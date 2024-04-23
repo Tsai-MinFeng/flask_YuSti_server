@@ -2,7 +2,7 @@
 
 這是一個很棒的專案，它做了很多很棒的事情！
 
-![API flowchart](圖片連結)
+![API flowchart](API_flow_chart.jpg)
 
 ## 安裝
 
